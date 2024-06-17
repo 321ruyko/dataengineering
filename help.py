@@ -1,0 +1,1 @@
+data['ca'].replace('?', float('nan'), inplace=True)
